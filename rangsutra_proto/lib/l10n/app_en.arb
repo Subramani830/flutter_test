@@ -1,0 +1,10 @@
+{
+    "orders": "Orders",
+    "@orders":{
+        "description": "The order Details"
+    },
+    "artisan": "Artisan",
+    "@artisan":{
+        "description": "The local Supplier"
+    }
+}
